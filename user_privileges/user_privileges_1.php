@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'admin','is_admin'=>'on','user_password'=>'$1$ad$Lt97/DPk1OCOs7zIOICvt.','confirm_password'=>'$1$ad$Lt97/DPk1OCOs7zIOICvt.','first_name'=>'Admin','last_name'=>'Administrator','roleid'=>'H8','email1'=>'hf@tech4beauty.com','status'=>'Active','activity_view'=>'This Week','lead_view'=>'Today','currency_id'=>'1','hour_format'=>'24','end_hour'=>'','start_hour'=>'00:00','title'=>'','phone_work'=>'+49 69 928 7077-0','department'=>'','phone_mobile'=>'','reports_to_id'=>'','phone_other'=>'','email2'=>'','phone_fax'=>'+49 32 12112 4430','secondaryemail'=>'','phone_home'=>'','date_format'=>'yyyy-mm-dd','signature'=>'Mit freundlichen Gr&uuml;&szlig;ennDer Administrator','description'=>'','address_street'=>'Lange Str. 31','address_city'=>'Frankfurt','address_state'=>'Hessen','address_postalcode'=>'60311','address_country'=>'Deutschland','imagename'=>'','internal_mailer'=>'1','reminder_interval'=>'5 Minutes','accesskey'=>'QjHC1zzkmLB0Ojhm','theme'=>'nature','language'=>'en_us','time_zone'=>'UTC','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>',','currency_symbol_placement'=>'$1.0','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'1','dayoftheweek'=>'Sunday','callduration'=>'5','othereventduration'=>'5','calendarsharedtype'=>'selectedusers','default_record_view'=>'Summary','leftpanelhide'=>'0','rowheight'=>'medium','defaulteventstatus'=>'','defaultactivitytype'=>'','hidecompletedevents'=>'0','phone_crm_extension'=>'','is_owner'=>'1','currency_name'=>'Euro','currency_code'=>'EUR','currency_symbol'=>'&#8364;','conv_rate'=>'1.00000','record_id'=>'','record_module'=>'','id'=>'1');
+
+?>
